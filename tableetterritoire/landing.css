@@ -1,0 +1,47 @@
+.sous-titre
+{
+  display: flex;
+
+  align-items: : right;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  width:auto; 
+  height: auto;
+}
+.header
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: flex-start;
+  color: #000000;
+  font-size: 40px;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  width:auto; 
+  height: auto;
+}
+
+.test
+{
+  text-align: justify;
+  font-size: 30px;
+  color: #000000;
+
+}
+.container
+{
+padding: 10px; 
+margin:10px;
+}
+.container2
+{
+padding: 40px; 
+margin:40px;
+}
+.texte
+{
+text-align: justify;
+}
